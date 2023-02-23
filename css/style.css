@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: justify;
+}
+#Imagem1 {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#lista {
+    text-align: justify;
+}
+header {
+    text-align: center;
+}
+body {
+    background-color: azure;
+}
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: blueviolet;
+    text-decoration: none;
+}
+a:hover {
+    color: pink;
+    text-decoration:underline;
+}
+a:active {
+    color: yellow;
+    text-decoration: none;
+}
+span {
+    color: red;
+}
+#h3 {
+    color: blue;
+}
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: blueviolet;
+    text-decoration: overline;
+}
+a:hover {
+    color: pink;
+    text-decoration:underline;
+}
+a:active {
+    color: yellow;
+    text-decoration: none;
+}
+#setinha {
+    text-align: right;
+}
+.capivara {
+    text-align: center;
+}
